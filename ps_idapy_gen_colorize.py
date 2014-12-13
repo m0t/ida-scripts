@@ -2,7 +2,7 @@
 
 '''
 @author:  m0t
-@license: GNU General Public License 2.0 or later
+
 '''
 
 #this parse a gml file and creates a script for idapython 
